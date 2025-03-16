@@ -60,4 +60,4 @@ def main():
         print(" ".join(f"({p},{q})" for p, q in sorted(equivalent_states)))
 
 if __name__ == "__main__":
-    main()
+    main()  
